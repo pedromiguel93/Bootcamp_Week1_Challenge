@@ -1,5 +1,5 @@
 
-/* */
+/* Makes the content stick to the extremes of the page, leaving no gaps */
 * {
     box-sizing: border-box;
     padding: 0;
