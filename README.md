@@ -5,5 +5,5 @@ This project is all about adding extra accessibility to a marketing agency websi
 
 This link will take you to the deployed website: [https://pedromiguel93.github.io/Bootcamp_Week1_Challenge/](https://pedromiguel93.github.io/Bootcamp_Week1_Challenge/)
 
-![The marketing agency website](assets\images\screenshot_1.jpg)
-![The marketing agency website](assets\images\screenshot_2.jpg)
+![The marketing agency website](assets/images/screenshot_1.jpg)
+![The marketing agency website](assets/images/screenshot_2.jpg)
